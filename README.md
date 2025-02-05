@@ -8,8 +8,9 @@ Web Develope | UI/UX Enthusiast | Lifelong Learner
 " I'm a passionate **web developer** who loves creating **functional** and **visually appealing** websites with clean and interactive designs. I enjoy working with **React, Tailwind CSS, and JavaScript**, and I'm always exploring new technologies to enhance user experiences. My current learning interest is **GSAP** for smooth and engaging animations"
 <br/>
 <br/>
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fariya.webdev@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801575377660)
+**Connect with me:**
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fariya.webdev@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801575377660) [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fariya-khan-sana/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Fariya-Khan-Web)
 
 <br />
 
