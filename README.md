@@ -41,11 +41,10 @@ Web Develope | UI/UX Enthusiast | Lifelong Learner
 #### Design and Art
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Pixso](https://img.shields.io/badge/Pixso-0088FF?style=for-the-badge&logo=Pixso&logoColor=white)
 
-
-
-📫 **Connect with me:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fariya-khan-sana/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Fariya-Khan-Web)
-
 🔥 **Stats**
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fariya-Khan-Web&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fariya-Khan-Web&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=Fariya-Khan-Web&theme=radical)  
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fariya-Khan-Web&show_icons=true&theme=dark)
