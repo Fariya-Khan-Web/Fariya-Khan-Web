@@ -17,6 +17,12 @@ Web Develope | UI/UX Enthusiast | Lifelong Learner
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Fariya-Khan-Web)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:fariya.webdev@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=flat&logo=whatsapp)](https://wa.me/8801575377660)
+<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fariya-khan-sana/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/Fariya-Khan-Web)
+[![Gmail](https://img.shields.io/badge/Email-yellow?style=flat&logo=gmail&logoColor=white)](mailto:fariya.webdev@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/8801575377660)
+
 
 
 
