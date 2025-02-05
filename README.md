@@ -1,5 +1,9 @@
+![Image]([banner-large.png](https://imgur.com/a/huFMuqm))
+
 # Fariya Khan Sana
-Web Developer | 🎨 UI/UX Enthusiast | 📚 Lifelong Learner  
+
+## Frontend Web Developer
+Web Develope | UI/UX Enthusiast | Lifelong Learner  
 
 🌱 **About Me**
 - 🔭 Working on full-stack projects.
