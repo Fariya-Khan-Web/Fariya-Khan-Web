@@ -1,4 +1,4 @@
-![Image]([banner-large.png](https://imgur.com/a/huFMuqm))
+<img src="https://imgur.com/a/huFMuqm" alt="Banner" width="100%" />
 
 # Fariya Khan Sana
 
