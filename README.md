@@ -33,6 +33,6 @@ I'm a passionate **web developer** who loves creating **functional** and **visua
 
 🔥 **Stats**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fariya-Khan-Web&layout=compact&theme=dark) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fariya-Khan-Web&layout=compact&theme=dark-minimalist) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fariya-Khan-Web&show_icons=true&theme=dark-minimalist) 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Fariya-Khan-web&theme=dark-minimalist)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fariya-Khan-Web&show_icons=true&theme=dark) 
