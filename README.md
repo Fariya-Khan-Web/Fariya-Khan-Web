@@ -4,11 +4,9 @@
 
 ### Frontend Web Developer
 Web Develope | UI/UX Enthusiast | Lifelong Learner  
-
 <br/>
->
-> "I do believe in the concept of engineering. The art of implementing traditional knowledge into practical applications vivifies me. I've always been passionate about design, interactive structure, in-depth connectivity, and how these influence human nature. I fancy myself creating and developing those stuffs."
-
+"I do believe in the concept of engineering. The art of implementing traditional knowledge into practical applications vivifies me. I've always been passionate about design, interactive structure, in-depth connectivity, and how these influence human nature. I fancy myself creating and developing those stuffs."
+<br/>
 <br/>
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fariya.webdev@gmail.com)     [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/01575377660)
