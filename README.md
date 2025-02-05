@@ -46,11 +46,5 @@ Web Develope | UI/UX Enthusiast | Lifelong Learner
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fariya-Khan-Web&show_icons=true&theme=dark)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fariya-Khan-Web&layout=compact&theme=dark)  
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Fariya-Khan-Web&theme=dark)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fariya-Khan-Web&show_icons=true&theme=gruvbox)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fariya-Khan-Web&layout=compact&theme=gruvbox)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Fariya-Khan-Web&theme=gruvbox)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fariya-Khan-Web&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fariya-Khan-Web&layout=compact&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Fariya-Khan-Web&theme=tokyonight)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fariya-Khan-Web&show_icons=true&theme=dark)
