@@ -5,6 +5,14 @@
 ### Frontend Web Developer
 Web Develope | UI/UX Enthusiast | Lifelong Learner  
 
+<br/>
+>
+> "I do believe in the concept of engineering. The art of implementing traditional knowledge into practical applications vivifies me. I've always been passionate about design, interactive structure, in-depth connectivity, and how these influence human nature. I fancy myself creating and developing those stuffs."
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fariya.webdev@gmail.com)     [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/01575377660)
+
+<br />
+
 🌱 **About Me**
 - 🔭 Working on full-stack projects.
 - 🌱 Learning React, Node.js, and Tailwind CSS.
@@ -24,7 +32,7 @@ Web Develope | UI/UX Enthusiast | Lifelong Learner
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 #### Design and Art
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Pixso](https://img.shields.io/badge/Pixso-0088FF?style=for-the-badge&logo=Pixso&logoColor=white) ![Pixso](https://img.shields.io/badge/Pixso-Design%20Tool-0088FF?style=for-the-badge)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Pixso](https://img.shields.io/badge/Pixso-0088FF?style=for-the-badge&logo=Pixso&logoColor=white)
 
 
 
