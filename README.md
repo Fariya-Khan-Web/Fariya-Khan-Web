@@ -5,11 +5,11 @@
 ### Frontend Web Developer
 Web Develope | UI/UX Enthusiast | Lifelong Learner  
 <br/>
-"I do believe in the concept of engineering. The art of implementing traditional knowledge into practical applications vivifies me. I've always been passionate about design, interactive structure, in-depth connectivity, and how these influence human nature. I fancy myself creating and developing those stuffs."
+" I'm a passionate **web developer** who loves creating **functional** and **visually appealing** websites with clean and interactive designs. I enjoy working with **React, Tailwind CSS, and JavaScript**, and I'm always exploring new technologies to enhance user experiences. My current learning interest is **GSAP** for smooth and engaging animations"
 <br/>
 <br/>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fariya.webdev@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801919697720)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fariya.webdev@gmail.com) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/8801575377660)
 
 <br />
 
