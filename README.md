@@ -2,7 +2,7 @@
 
 # Fariya Khan Sana
 
-## Frontend Web Developer
+### Frontend Web Developer
 Web Develope | UI/UX Enthusiast | Lifelong Learner  
 
 🌱 **About Me**
