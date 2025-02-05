@@ -24,7 +24,8 @@ Web Develope | UI/UX Enthusiast | Lifelong Learner
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 #### Design and Art
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Pixso](https://img.shields.io/badge/Pixso-0088FF?style=for-the-badge&logo=Pixso&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Pixso](https://img.shields.io/badge/Pixso-0088FF?style=for-the-badge&logo=Pixso&logoColor=white) ![Pixso](https://img.shields.io/badge/Pixso-Design%20Tool-0088FF?style=for-the-badge)
+
 
 
 📫 **Connect with me:**
