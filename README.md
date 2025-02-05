@@ -15,16 +15,6 @@ Web Develope | UI/UX Enthusiast | Lifelong Learner
 [![Gmail](https://img.shields.io/badge/Email-yellow?style=flat&logo=gmail&logoColor=white)](mailto:fariya.webdev@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/8801575377660)
 
-
-
-
-<br />
-
-🌱 **About Me**
-- 🔭 Working on full-stack projects.
-- 🌱 Learning React, Node.js, and Tailwind CSS.
-- 💬 Ask me about JavaScript, Web Development, or Open Source!
-
 ---
 #### Development Languages
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
