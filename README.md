@@ -35,7 +35,7 @@ I'm a passionate **web developer** who loves creating **functional** and **visua
 #### Design and Art
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Pixso](https://img.shields.io/badge/Pixso-0088FF?style=for-the-badge&logo=Pixso&logoColor=white)
 
-🔥 **Stats**
+**Stats**
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fariya-Khan-Web&layout=compact&theme=dark) <br/>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fariya-Khan-Web&show_icons=true&theme=dark) <br/>
