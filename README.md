@@ -57,6 +57,7 @@ I'm a passionate **web developer** who loves creating **functional** and **visua
 
 
 <!-- <div align="left">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -97,3 +98,4 @@ I'm a passionate **web developer** who loves creating **functional** and **visua
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
 </div> -->
+</div>
