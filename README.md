@@ -89,3 +89,12 @@ I'm a passionate **web developer** who loves creating **functional** and **visua
 </div>
 
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Fariya-Khan-Web/Fariya-Khan-Web/output/snake.svg" alt="Snake animation" />
+
+###
+
+
