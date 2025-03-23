@@ -19,7 +19,7 @@ I'm a passionate **web developer** who loves creating **functional** and **visua
 [![Gmail](https://img.shields.io/badge/Email-yellow?style=flat&logo=gmail&logoColor=white)](mailto:fariya.webdev@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/8801575377660)
 
----
+#
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fariya-Khan-Web/Fariya-Khan-Web/output/github-snake-dark.svg" />
@@ -27,7 +27,7 @@ I'm a passionate **web developer** who loves creating **functional** and **visua
   <img alt="github-snake" src="https://raw.githubusercontent.com/Fariya-Khan-Web/Fariya-Khan-Web/output/github-snake.svg" />
 </picture>
 
----
+#
 
 #### Development Languages
 
@@ -46,7 +46,7 @@ I'm a passionate **web developer** who loves creating **functional** and **visua
 #### Design and Art
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Pixso](https://img.shields.io/badge/Pixso-0088FF?style=for-the-badge&logo=Pixso&logoColor=white)
 
----
+#
 <br/>
 
 <div align="center">
