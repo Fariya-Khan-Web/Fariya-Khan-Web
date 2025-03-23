@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/poiQyai.jpeg" alt="Banner" width="100%" />
+<img src="https://i.imgur.com/poiQyai.jpeg" alt="Banner" width="80%" />
 
 # Fariya Khan Sana
 
