@@ -19,7 +19,7 @@ I'm a passionate **web developer** who loves creating **functional** and **visua
 [![Gmail](https://img.shields.io/badge/Email-yellow?style=flat&logo=gmail&logoColor=white)](mailto:fariya.webdev@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/8801575377660)
 
----
+--
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fariya-Khan-Web/Fariya-Khan-Web/output/github-snake-dark.svg" />
@@ -28,9 +28,9 @@ I'm a passionate **web developer** who loves creating **functional** and **visua
 </picture>
 
 #### Development Languages
-<div align="center">
+
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-</div>
+
 
 #### Language Framework, Platforms and Libraries
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
