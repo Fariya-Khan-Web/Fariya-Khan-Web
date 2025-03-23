@@ -20,6 +20,13 @@ I'm a passionate **web developer** who loves creating **functional** and **visua
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/8801575377660)
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fariya-Khan-Web/Fariya-Khan-Web/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fariya-Khan-Web/Fariya-Khan-Web/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Fariya-Khan-Web/Fariya-Khan-Web/output/github-snake.svg" />
+</picture>
+
 #### Development Languages
 ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
 
@@ -42,8 +49,6 @@ I'm a passionate **web developer** who loves creating **functional** and **visua
   <img src="https://streak-stats.demolab.com?user=Fariya-Khan-Web&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fariya-Khan-Web&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-
 
 
 <div align="left">
@@ -87,14 +92,3 @@ I'm a passionate **web developer** who loves creating **functional** and **visua
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
 </div>
-
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Fariya-Khan-Web/Fariya-Khan-Web/output/snake.svg" alt="Snake animation" />
-
-###
-
-
