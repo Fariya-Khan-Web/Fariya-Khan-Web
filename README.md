@@ -37,22 +37,17 @@ I'm a passionate **web developer** who loves creating **functional** and **visua
 
 **Stats**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Fariya-Khan-Web&layout=compact&theme=dark) <br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=Fariya-Khan-web&theme=dark)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fariya-Khan-Web&show_icons=true&theme=dark) 
-
-
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fariya-Khan-Web&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Fariya-Khan-Web&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fariya-Khan-Web&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+
 ###
+
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
