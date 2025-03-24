@@ -2,11 +2,11 @@
 <!-- <img src="https://i.imgur.com/UMjpV8u.jpg" alt="Banner" width="100%" /> -->
 <img src="https://i.imgur.com/gVip6dR.png" alt="Banner" width="100%" />
 
+
 <br/>
 
 # Frontend Web Developer
 
-<!-- ### Frontend Web Developer -->
 Web Developer | UI/UX Enthusiast | Lifelong Learner  
 <br/>
 I'm a passionate **web developer** who loves creating **functional** and **visually appealing** websites with clean and interactive designs. I enjoy working with **React, Tailwind CSS, and JavaScript**, and I'm always exploring new technologies to enhance user experiences. My current learning interest is **GSAP** for smooth and engaging animations
