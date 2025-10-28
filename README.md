@@ -60,7 +60,8 @@ I'm a passionate **web developer** who loves creating **functional** and **visua
 </div>
 
 
-<!-- <div align="left">
+
+<div align="left">
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -101,5 +102,5 @@ I'm a passionate **web developer** who loves creating **functional** and **visua
   <img src="https://skillicons.dev/icons?i=discord" height="30" alt="discord logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-</div> -->
-<!-- </div> -->
+</div> 
+
