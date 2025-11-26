@@ -1,9 +1,8 @@
 <!-- <img src="https://i.imgur.com/poiQyai.jpeg" alt="Banner" width="100%" /> -->
 <!-- <img src="https://i.imgur.com/UMjpV8u.jpg" alt="Banner" width="100%" /> -->
-<img src="https://i.imgur.com/gVip6dR.png" alt="Banner" width="100%" />
+<!-- <img src="https://i.imgur.com/gVip6dR.png" alt="Banner" width="100%" /> -->
 
-
-<br/>
+<!-- <br/> -->
 
 # Frontend Web Developer
 
